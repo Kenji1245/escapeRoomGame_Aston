@@ -18,6 +18,7 @@ The player has six choices for answers and one life.
 
 # Tools used
 The game was created using visual studio code and Java. 
+The Code requires Java Development Kit (JDK) to use.
 
 # Introduction Page
 ![image](https://github.com/user-attachments/assets/4bd4041d-857a-4c7a-8563-afd1415be4d5)
