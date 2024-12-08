@@ -21,10 +21,23 @@ The game was created using visual studio code and Java.
 
 # Introduction Page
 ![image](https://github.com/user-attachments/assets/4bd4041d-857a-4c7a-8563-afd1415be4d5)
-The users can decide which number to input to choose a difficulty level (easy, medium or hard).
+The player can decide which number to input to choose a difficulty level (easy, medium or hard).
 
 # Easy Mode Question Page
 ![image](https://github.com/user-attachments/assets/9226e842-d030-4f74-a2cf-b198f15f4b69)
+The Image shows question 1 and 2 of easy mode.
 
 # Medium Mode Question Page 
+![image](https://github.com/user-attachments/assets/e732bb2b-7bbe-4db8-b0bf-963ba4ac6c66)
+The Image shows question 1 and 2 of medium mode.
+
+# Hard Mode Question Page
+![image](https://github.com/user-attachments/assets/45d3edfa-afc7-462b-bb60-b5f9ef82d209)
+The Image shows question 1 and 2 of hard mode.
+
+# No Lives 
+![image](https://github.com/user-attachments/assets/2b3a2e86-d12f-4bdb-9d0c-998d184a7238)
+When the player has lost all of thier lives, they can decide to continue the game or not. 
+
+
 
